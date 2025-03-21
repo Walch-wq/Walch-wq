@@ -41,7 +41,7 @@
 
 ## 📬 联系我
 - 📧 邮箱：walch1018@foxmail.com
-- 🐙 GitHub：[dakeWang](https://github.com/Walch-wq)
+- 🐙 GitHub：[Walch-wq](https://github.com/Walch-wq)
 
 > "代码写得好，Bug来得少！💻🔥"
 
